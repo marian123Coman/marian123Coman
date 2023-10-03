@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marian123Coman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking for a junior Developer Job
 - 📫 How to reach me : email me at maryangal03@gmail.com
 
