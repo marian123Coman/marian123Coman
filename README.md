@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marian123Coman
 - 👀 I’m not interested in jobs 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning how to deal with people
 - 💞️ I’m looking for a 100000$
 - 📫 How to reach me : email me at maryangal03@gmail.com
 
